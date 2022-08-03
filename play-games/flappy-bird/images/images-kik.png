@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>Oops, there was a problem</title>
+        <link rel="stylesheet" href="/css/styles.css">
+        <link rel="stylesheet" href="/css/error.css">
+        <meta name="robots" content="noindex">
+    </head>
+
+    <body>
+        <div class="error">
+            <img src="https://playcanvas.com/static-assets/images/gremlin.png">
+            <h1 id='status'>404</h1>
+            <h2 id='message'>not found</h2>
+            <a class='home' href='/'>get me out of here!</a>
+        </div>
+
+        <div class="stacktrace">
+        </div>
+    </body>
+</html>
