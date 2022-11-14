@@ -1,0 +1,3 @@
+It's thawk2 smaller exe
+When launching the game it may still prompt you for  a CD.. just click 
+OK few times and it will work.
